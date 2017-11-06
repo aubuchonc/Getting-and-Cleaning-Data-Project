@@ -36,7 +36,7 @@ The steps used to get to the tidy data are listed below:
 
 You can read the file back into R with the following code:
 
-data <- read.table("average.txt",header =TRUE)
+data <- read.table("average.txt",header =TRUE)  
 View(data)
 
 
